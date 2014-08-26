@@ -4,7 +4,7 @@ For each question, supply an answer as specified by the text in [].  When you re
 
 ## 1. How interested are you in the topic of Big Data?
 [On a scale from 1 to 10 where 1= Not at all interested & 10 = It's the topic I'm most interested in]
-
+9
 ## 2. How excited are you for this class in comparison to your other courses? 
 [On a scale from 1 to 10 where 1 = All my other classes are more interesting & 10 = This is the class I'm most looking forward to]
 
