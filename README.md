@@ -21,7 +21,7 @@ MongoDB, CouchDB, Splunk
 4
 
 ## 7. What programming languages are you most familiar with?
-Python, Bash
+Python, Bash, Java, C++ 
 
 ## 8. What aspects of computer science do you hope to improve upon?
 My Database skills
@@ -37,7 +37,6 @@ Sysadmin
 4
 
 ## 12. Rank the following data skills in order of how imporant you think they are to learn: collection, cleaning, analysis, visualization.
-[Rank them 1 to 4; 1 = most important, 4 = least important]
 collection - 1
 cleaning - 2 
 analysis - 1
