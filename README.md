@@ -12,7 +12,7 @@ For each question, supply an answer as specified by the text in [].  When you re
 
 ## 3. How comfortable do you feel working with raw data?
 [On a scale from 1 to 10 where 1 = I'm terrified to deal with raw data & 10 = Throw any data set at me and I'm ready to do a full analysis]
-33
+3
 
 ## 4. What Big Data Tools have you used before?
 [List tools separated by comma]
